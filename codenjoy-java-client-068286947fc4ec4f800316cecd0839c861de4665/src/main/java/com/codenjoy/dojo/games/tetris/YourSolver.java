@@ -96,7 +96,7 @@ public class YourSolver extends AbstractJsonSolver<Board> {
 //            return "RIGHT";
 //        }
 //        else{
-//            return  "LEFT";
+//            return  "LEFT"  ;
 //        }
         }
         return "RIGHT";
